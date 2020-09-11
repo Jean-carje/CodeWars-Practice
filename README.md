@@ -10,4 +10,5 @@ My code solutions to Codewars problems
 **6-kyu** 
         Problems/Kata         |  Solution  
 ----------------------------- |  --------  
-[Longest Palindrome](https://www.codewars.com/kata/54bb6f887e5a80180900046b/train/python)   | [Soluction](python/6_kyu/longest_palindrome.py)  
+[Longest Palindrome](https://www.codewars.com/kata/54bb6f887e5a80180900046b/train/python)   | [Soluction](python/6_kyu/longest_palindrome.py)
+[Help the bookseller!](https://www.codewars.com/kata/54dc6f5a224c26032800005c/train/python)   | [Soluction](python/6_kyu/Help_the_bookseller.py)
