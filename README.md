@@ -2,6 +2,11 @@
 My code solutions to Codewars problems
 
 ## Python
+**4-kyu**
+         Problems/Kata         |  Solution  
+------------------------------ | ---------- 
+[Square into Squares protect trees!](https://www.codewars.com/kata/54eb33e5bc1a25440d000891/)   | [Soluction](python/4_kyu/Square_into_Squares_Protect_trees.py) 
+
 **5-kyu**
          Problems/Kata         |  Solution  
 ------------------------------ | ---------- 
