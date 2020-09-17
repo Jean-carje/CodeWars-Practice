@@ -12,6 +12,7 @@ My code solutions to Codewars problems
 ------------------------------ | ---------- 
 [Calculating With Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/python)   | [Soluction](python/5_kyu/Calculating_With_Functions.py)  
 [Write out numbers](https://www.codewars.com/kata/52724507b149fa120600031d/)   | [Soluction](python/5_kyu/Write_out_numbers.py)  
+[Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811)   | [Soluction](python/5_kyu/Regex_Password_Validation.py)  
 
 **6-kyu** 
         Problems/Kata         |  Solution  
