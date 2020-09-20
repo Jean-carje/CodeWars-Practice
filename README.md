@@ -1,5 +1,7 @@
-# Codewars Practice
-My code solutions to Codewars problems in Python or Javascript
+<h1 align="center">Codewars Practice</h1>
+<a href="https://www.codewars.com/users/Carje">
+    <img src="https://secureservercdn.net/160.153.138.53/610.341.myftpupload.com/wp-content/uploads/2017/09/codewars.png" alt="Codewars logo">
+</a>
 
 ## Solutions
 **4-kyu**
