@@ -21,11 +21,10 @@ For example:
 # Solution:
 
 def same_structure_as(original,other):
-    cont = True
-    if len(original) != len(other) or type(original) != type(other):
+    if type(original) != list or type(other) != list or len(original) != len(other) or type(original) != type(other):
         return False
     for x, y in zip(original, other):
-        if type(x) != type(y):
+        if type(x) != type(y) and x not in other:
             return False
         if type(x) == list and type(y) == list:
             return same_structure_as(x,y)
@@ -36,6 +35,8 @@ def same_structure_as(original,other):
 
 print(same_structure_as([1,[1,1]],[2,[2,2]]) == True and "[1,[1,1]] same as [2,[2,2]]")
 print(same_structure_as([1,[1,1]],[[2,2],2]) == False and "[1,[1,1]] not same as [[2,2],2]")
+print(same_structure_as([1,'[',']'], ['[',']',1]) == True and "[1,'[',']'] same as ['[',']',1]")
+
 
 print(" should return True:")
 print(same_structure_as([ 1, 1, 1 ], [ 2, 2, 2 ]) )
