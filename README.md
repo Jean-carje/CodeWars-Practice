@@ -6,6 +6,7 @@ My code solutions to Codewars problems in Python or Javascript
          Problems/Kata         |  Solution  
 ------------------------------ | ---------- 
 [Square into Squares protect trees!](https://www.codewars.com/kata/54eb33e5bc1a25440d000891/)   | [Soluction python](python/4_kyu/Square_into_Squares_Protect_trees.py) 
+[Nesting Structure Comparison](https://www.codewars.com/kata/520446778469526ec0000001/)   | [Soluction python](python/4_kyu/Nesting_Structure_Comparison.py) 
 
 **5-kyu**
          Problems/Kata         |  Solution  
