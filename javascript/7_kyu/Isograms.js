@@ -11,18 +11,27 @@ isIsogram("aba") == false
 isIsogram("moOse") == false // -- ignore letter case
 */
 // -------------------------------------
-// Solution:
+// Solution 1:
 
+// function isIsogram(str){
+//     if (str.length == 0) { return true; } 
+//     else {
+//         let ar = Array.from(str.toLowerCase());
+//         for (i of str) {
+//             let n = 0;
+//             for (j of ar) {
+//                 if (i == j) { n += 1; }
+//             }
+//             if (n > 1) { return false;}
+//         }
+//         return true;
+//     }
+// }
+
+// Solution 2:
 function isIsogram(str){
-    if (str.length == 0) { return true; } 
-    else {
-        let ar = str.toLowerCase().split("");
-        let arr = Array.from(ar); 
-        const repeat = (item) => arr.slice(ar.indexOf(item)+1).includes(item);
-        return ar.every(repeat);
-    }
+    return new Set(str.toLowerCase()).size == str.length;
 }
-
 
 // -------------------------------------
 // Basic Tests
