@@ -27,6 +27,8 @@
 [Help the bookseller!](https://www.codewars.com/kata/54dc6f5a224c26032800005c/train/python)   | [Soluction python](python/6_kyu/Help_the_bookseller.py)
 [String array duplicates](https://www.codewars.com/kata/59f08f89a5e129c543000069/)   | [Soluction python](python/6_kyu/String_array_duplicates.py)
 [Array diff](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript)   | [Solution javascript](javascript/6_kyu/Array_diff.js)
+[Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/)   | [Solution javascript](javascript/6_kyu/Multiples_of_3_or_5.js)
+
 
 **7-kyu**
          Problems/Kata         |  Solution  
