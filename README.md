@@ -19,6 +19,7 @@
 [Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811)   | [Soluction python](python/5_kyu/Regex_Password_Validation.py)  
 [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b/)   | [Soluction python](python/5_kyu/Extract_the_domain_name_from_a_URL.py)  
 [Help your granny!](https://www.codewars.com/kata/5536a85b6ed4ee5a78000035/)   | [Soluction python](python/5_kyu/Help_your_granny!.py)  
+[Best travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/)   | [Soluction python](python/5_kyu/Best_travel.py)  
 
 **6-kyu** 
         Problems/Kata         |  Solution  
