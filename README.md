@@ -32,6 +32,7 @@
 [Array diff](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript)   | [Solution javascript](javascript/6_kyu/Array_diff.js)
 [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/)   | [Solution javascript](javascript/6_kyu/Multiples_of_3_or_5.js)
 [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d)   | [Solution javascript](javascript/6_kyu/IQ_Test.js)
+[Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f/)   | [Solution javascript](python/6_kyu/Matrix_Addition.py)
 
 
 **7-kyu**
