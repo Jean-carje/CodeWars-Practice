@@ -22,6 +22,7 @@
 [Best travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/)   | [Soluction python](python/5_kyu/Best_travel.py)  
 [Prime number decompositions](https://www.codewars.com/kata/53c93982689f84e321000d62/)   | [Soluction python](python/5_kyu/Prime_number_decompositions.py)  
 [k-Primes](https://www.codewars.com/kata/5726f813c8dcebf5ed000a6b)   | [Soluction python](python/5_kyu/k-Primes.py)  
+[Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e/)   | [Soluction python](python/5_kyu/Primes_in_numbers.py)  
 
 **6-kyu** 
         Problems/Kata         |  Solution  
