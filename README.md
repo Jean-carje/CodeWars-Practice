@@ -10,6 +10,7 @@
 [Square into Squares protect trees!](https://www.codewars.com/kata/54eb33e5bc1a25440d000891/)   | [Soluction python](python/4_kyu/Square_into_Squares_Protect_trees.py) 
 [Nesting Structure Comparison](https://www.codewars.com/kata/520446778469526ec0000001/)   | [Soluction python](python/4_kyu/Nesting_Structure_Comparison.py) 
 [Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f/)   | [Soluction python](python/4_kyu/Sum_by_Factors.py) 
+[Counting inner calls in an unknown function.](https://www.codewars.com/kata/53efc28911c36ff01e00012c/)   | [Soluction python](python/4_kyu/Counting.py) 
 
 **5-kyu**
          Problems/Kata         |  Solution  
