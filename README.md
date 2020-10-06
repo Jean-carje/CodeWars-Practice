@@ -24,6 +24,7 @@
 [Prime number decompositions](https://www.codewars.com/kata/53c93982689f84e321000d62/)   | [Soluction python](python/5_kyu/Prime_number_decompositions.py)  
 [k-Primes](https://www.codewars.com/kata/5726f813c8dcebf5ed000a6b)   | [Soluction python](python/5_kyu/k-Primes.py)  
 [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e/)   | [Soluction python](python/5_kyu/Primes_in_numbers.py)  
+[validDate Regex](https://www.codewars.com/kata/548db0bd1df5bbf29b0000b7/)   | [Soluction python](python/5_kyu/validDate_Regex.py)  
 
 **6-kyu** 
         Problems/Kata         |  Solution  
