@@ -44,3 +44,4 @@
 [Numbers in strings](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014/train/javascript)   | [Soluction javascript](javascript/7_kyu/Numbers_in_strings.js) 
 [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/)   | [Soluction javascript](javascript/7_kyu/Isograms.js) 
 [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/)   | [Soluction javascript](javascript/7_kyu/Square_Every_Digit.js) 
+[Find the middle element](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/)   | [Soluction javascript](javascript/7_kyu/Find_the_middle_element.js) 
