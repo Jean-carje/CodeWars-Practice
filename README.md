@@ -7,41 +7,42 @@
 **4-kyu**
          Problems/Kata         |  Solution  
 ------------------------------ | ---------- 
-[Square into Squares protect trees!](https://www.codewars.com/kata/54eb33e5bc1a25440d000891/)   | [Soluction python](python/4_kyu/Square_into_Squares_Protect_trees.py) 
-[Nesting Structure Comparison](https://www.codewars.com/kata/520446778469526ec0000001/)   | [Soluction python](python/4_kyu/Nesting_Structure_Comparison.py) 
-[Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f/)   | [Soluction python](python/4_kyu/Sum_by_Factors.py) 
-[Counting inner calls in an unknown function.](https://www.codewars.com/kata/53efc28911c36ff01e00012c/)   | [Soluction python](python/4_kyu/Counting.py) 
+[Square into Squares protect trees!](https://www.codewars.com/kata/54eb33e5bc1a25440d000891/)   | [Python solution](python/4_kyu/Square_into_Squares_Protect_trees.py) 
+[Nesting Structure Comparison](https://www.codewars.com/kata/520446778469526ec0000001/)   | [Python solution](python/4_kyu/Nesting_Structure_Comparison.py) 
+[Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f/)   | [Python solution](python/4_kyu/Sum_by_Factors.py) 
+[Counting inner calls in an unknown function.](https://www.codewars.com/kata/53efc28911c36ff01e00012c/)   | [Python solution](python/4_kyu/Counting.py) 
 
 **5-kyu**
          Problems/Kata         |  Solution  
 ------------------------------ | ---------- 
-[Calculating With Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/python)   | [Soluction python](python/5_kyu/Calculating_With_Functions.py)  
-[Write out numbers](https://www.codewars.com/kata/52724507b149fa120600031d/)   | [Soluction python](python/5_kyu/Write_out_numbers.py)  
-[Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811)   | [Soluction python](python/5_kyu/Regex_Password_Validation.py)  
-[Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b/)   | [Soluction python](python/5_kyu/Extract_the_domain_name_from_a_URL.py)  
-[Help your granny!](https://www.codewars.com/kata/5536a85b6ed4ee5a78000035/)   | [Soluction python](python/5_kyu/Help_your_granny!.py)  
-[Best travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/)   | [Soluction python](python/5_kyu/Best_travel.py)  
-[Prime number decompositions](https://www.codewars.com/kata/53c93982689f84e321000d62/)   | [Soluction python](python/5_kyu/Prime_number_decompositions.py)  
-[k-Primes](https://www.codewars.com/kata/5726f813c8dcebf5ed000a6b)   | [Soluction python](python/5_kyu/k-Primes.py)  
-[Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e/)   | [Soluction python](python/5_kyu/Primes_in_numbers.py)  
-[validDate Regex](https://www.codewars.com/kata/548db0bd1df5bbf29b0000b7/)   | [Soluction python](python/5_kyu/validDate_Regex.py)  
+[Calculating With Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/python)   | [Python solution](python/5_kyu/Calculating_With_Functions.py)  
+[Write out numbers](https://www.codewars.com/kata/52724507b149fa120600031d/)   | [Python solution](python/5_kyu/Write_out_numbers.py)  
+[Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811)   | [Python solution](python/5_kyu/Regex_Password_Validation.py)  
+[Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b/)   | [Python solution](python/5_kyu/Extract_the_domain_name_from_a_URL.py)  
+[Help your granny!](https://www.codewars.com/kata/5536a85b6ed4ee5a78000035/)   | [Python solution](python/5_kyu/Help_your_granny!.py)  
+[Best travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/)   | [Python solution](python/5_kyu/Best_travel.py)  
+[Prime number decompositions](https://www.codewars.com/kata/53c93982689f84e321000d62/)   | [Python solution](python/5_kyu/Prime_number_decompositions.py)  
+[k-Primes](https://www.codewars.com/kata/5726f813c8dcebf5ed000a6b)   | [Python solution](python/5_kyu/k-Primes.py)  
+[Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e/)   | [Python solution](python/5_kyu/Primes_in_numbers.py)  
+[validDate Regex](https://www.codewars.com/kata/548db0bd1df5bbf29b0000b7/)   | [Python solution](python/5_kyu/validDate_Regex.py)  
+[Hail Caesar](https://www.codewars.com/kata/57067d7b7a53e88ae400024c)   | [Python solution](python/5_kyu/Hail_Caesar.py)
 
 **6-kyu** 
         Problems/Kata         |  Solution  
 ----------------------------- |  --------  
-[Longest Palindrome](https://www.codewars.com/kata/54bb6f887e5a80180900046b/train/python)   | [Soluction python](python/6_kyu/longest_palindrome.py)
-[Help the bookseller!](https://www.codewars.com/kata/54dc6f5a224c26032800005c/train/python)   | [Soluction python](python/6_kyu/Help_the_bookseller.py)
-[String array duplicates](https://www.codewars.com/kata/59f08f89a5e129c543000069/)   | [Soluction python](python/6_kyu/String_array_duplicates.py)
-[Array diff](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript)   | [Solution javascript](javascript/6_kyu/Array_diff.js)
-[Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/)   | [Solution javascript](javascript/6_kyu/Multiples_of_3_or_5.js)
-[IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d)   | [Solution javascript](javascript/6_kyu/IQ_Test.js)
-[Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f/)   | [Solution python](python/6_kyu/Matrix_Addition.py)
+[Longest Palindrome](https://www.codewars.com/kata/54bb6f887e5a80180900046b/train/python)   | [Python solution](python/6_kyu/longest_palindrome.py)
+[Help the bookseller!](https://www.codewars.com/kata/54dc6f5a224c26032800005c/train/python)   | [Python solution](python/6_kyu/Help_the_bookseller.py)
+[String array duplicates](https://www.codewars.com/kata/59f08f89a5e129c543000069/)   | [Python solution](python/6_kyu/String_array_duplicates.py)
+[Array diff](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript)   | [Javascript solution](javascript/6_kyu/Array_diff.js)
+[Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/)   | [Javascript solution](javascript/6_kyu/Multiples_of_3_or_5.js)
+[IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d)   | [Javascript solution](javascript/6_kyu/IQ_Test.js)
+[Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f/)   | [Python solution](python/6_kyu/Matrix_Addition.py)
 
 
 **7-kyu**
          Problems/Kata         |  Solution  
 ------------------------------ | ---------- 
-[Numbers in strings](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014/train/javascript)   | [Soluction javascript](javascript/7_kyu/Numbers_in_strings.js) 
-[Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/)   | [Soluction javascript](javascript/7_kyu/Isograms.js) 
-[Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/)   | [Soluction javascript](javascript/7_kyu/Square_Every_Digit.js) 
-[Find the middle element](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/)   | [Soluction javascript](javascript/7_kyu/Find_the_middle_element.js) 
+[Numbers in strings](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014/train/javascript)   | [Javascript solution](javascript/7_kyu/Numbers_in_strings.js) 
+[Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/)   | [Javascript solution](javascript/7_kyu/Isograms.js) 
+[Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/)   | [Javascript solution](javascript/7_kyu/Square_Every_Digit.js) 
+[Find the middle element](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/)   | [Javascript solution](javascript/7_kyu/Find_the_middle_element.js) 
