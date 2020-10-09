@@ -37,6 +37,7 @@
 [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/)   | [Javascript solution](javascript/6_kyu/Multiples_of_3_or_5.js)
 [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d)   | [Javascript solution](javascript/6_kyu/IQ_Test.js)
 [Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f/)   | [Python solution](python/6_kyu/Matrix_Addition.py)
+[Sum of pairs](https://www.codewars.com/kata/54d81488b981293527000c8f/)   | [Python solution](python/6_kyu/Sum_of_pairs.py)
 
 
 **7-kyu**
