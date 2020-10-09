@@ -17,7 +17,7 @@ Strings will be lowercase only, no spaces. See test cases for more examples.
 Good luck!
 '''
 # -------------------------------------
-# Soluction 1
+# Solution 1
 def dup(arry):
     ar = []
     for i in arry:
@@ -28,7 +28,7 @@ def dup(arry):
     return ar
 
 # -------------------------------------
-# Soluction 2
+# Solution 2
 # from itertools import groupby
 
 # def dup(arry):

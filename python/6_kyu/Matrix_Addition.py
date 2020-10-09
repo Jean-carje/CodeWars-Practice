@@ -35,7 +35,7 @@ Example
         [2, 2, 4] ]
 '''
 # -------------------------------------
-# Soluction 
+# Solution 
 
 def matrix_addition(a, b):
     return [[x + y for x, y in zip(first, second)] for first, second in zip(a,b)]
