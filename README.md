@@ -38,6 +38,7 @@
 [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d)   | [Javascript solution](javascript/6_kyu/IQ_Test.js)
 [Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f/)   | [Python solution](python/6_kyu/Matrix_Addition.py)
 [Sum of pairs](https://www.codewars.com/kata/54d81488b981293527000c8f/)   | [Python solution](python/6_kyu/Sum_of_pairs.py)
+[Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f/)   | [Javascript solution](javascript/6_kyu/Your_order_please.js)
 
 
 **7-kyu**
