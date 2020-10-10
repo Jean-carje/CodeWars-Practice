@@ -48,3 +48,4 @@
 [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/)   | [Javascript solution](javascript/7_kyu/Isograms.js) 
 [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/)   | [Javascript solution](javascript/7_kyu/Square_Every_Digit.js) 
 [Find the middle element](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/)   | [Javascript solution](javascript/7_kyu/Find_the_middle_element.js) 
+[Python's Dynamic Classes #1](https://www.codewars.com/kata/55ddb0ea5a133623b6000043)   | [Python solution](python/7_kyu/Python_Dynamic_Classes_1.py) 
