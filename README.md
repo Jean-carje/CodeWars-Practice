@@ -26,6 +26,7 @@
 [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e/)   | [Python solution](python/5_kyu/Primes_in_numbers.py)  
 [validDate Regex](https://www.codewars.com/kata/548db0bd1df5bbf29b0000b7/)   | [Python solution](python/5_kyu/validDate_Regex.py)  
 [Hail Caesar](https://www.codewars.com/kata/57067d7b7a53e88ae400024c)   | [Python solution](python/5_kyu/Hail_Caesar.py)
+[String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/)   | [Python solution](python/5_kyu/String_incrementer.py)
 
 **6-kyu** 
         Problems/Kata         |  Solution  
