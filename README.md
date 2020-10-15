@@ -52,3 +52,4 @@
 [Find the middle element](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/)   | [Javascript solution](javascript/7_kyu/Find_the_middle_element.js) 
 [Python's Dynamic Classes #1](https://www.codewars.com/kata/55ddb0ea5a133623b6000043)   | [Python solution](python/7_kyu/Python_Dynamic_Classes_1.py) 
 [Maximum Length Difference](https://www.codewars.com/kata/5663f5305102699bad000056/)   | [Javascript solution](javascript/7_kyu/Maximum_Length_Difference.js) 
+[Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053/)   | [Javascript solution](javascript/7_kyu/Beginner_Series3.js) 
