@@ -28,6 +28,7 @@
 [validDate Regex](https://www.codewars.com/kata/548db0bd1df5bbf29b0000b7/)   | [Python solution](python/5_kyu/validDate_Regex.py)  
 [Hail Caesar](https://www.codewars.com/kata/57067d7b7a53e88ae400024c)   | [Python solution](python/5_kyu/Hail_Caesar.py)
 [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/)   | [Python solution](python/5_kyu/String_incrementer.py)
+[Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/solutions/python)   | [Python solution](python/5_kyu/Directions_Reduction.py)
 
 **6-kyu** 
         Problems/Kata         |  Solution  
@@ -53,3 +54,4 @@
 [Python's Dynamic Classes #1](https://www.codewars.com/kata/55ddb0ea5a133623b6000043)   | [Python solution](python/7_kyu/Python_Dynamic_Classes_1.py) 
 [Maximum Length Difference](https://www.codewars.com/kata/5663f5305102699bad000056/)   | [Javascript solution](javascript/7_kyu/Maximum_Length_Difference.js) 
 [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053/)   | [Javascript solution](javascript/7_kyu/Beginner_Series3.js) 
+[Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)   | [Javascript solution](javascript/7_kyu/Remove_the_minimum.js) 

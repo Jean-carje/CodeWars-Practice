@@ -35,7 +35,7 @@ def proper_fractions(num):
         return 0
     x = num > 1 and num
     for p in range(2, int(num ** .5) + 1):
-        if not num % p:
+        if not num % p:d
             x -= x // p
             while not num % p:
                 num //= p
