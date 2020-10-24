@@ -11,7 +11,8 @@
 [Nesting Structure Comparison](https://www.codewars.com/kata/520446778469526ec0000001/)   | [Python solution](python/4_kyu/Nesting_Structure_Comparison.py) 
 [Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f/)   | [Python solution](python/4_kyu/Sum_by_Factors.py) 
 [Counting inner calls in an unknown function.](https://www.codewars.com/kata/53efc28911c36ff01e00012c/)   | [Python solution](python/4_kyu/Counting.py) 
-[Number of Proper Fractions with Denominator d](https://www.codewars.com/kata/55b7bb74a0256d4467000070/)   | [Python solution](python/4_kyu/Number_of_Proper_Fractions_with_Denominator.py) 
+[Number of Proper Fractions with Denominator d](https://www.codewars.com/kata/55b7bb74a0256d4467000070/)   | [Python solution](python/4_kyu/Number_of_Proper_Fractions_with_Denominator.py)
+[Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014/)   | [Python solution](python/4_kyu/Strings_Mix.py) 
 
 **5-kyu**
          Problems/Kata         |  Solution  
