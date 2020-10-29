@@ -18,6 +18,7 @@
 **5-kyu**
          Problems/Kata         |  Solution  
 ------------------------------ | ---------- 
+[Buddy Pairs](https://www.codewars.com/kata/59ccf051dcc4050f7800008f/solutions/python)   | [Python solution](python/5_kyu/Buddy_pairs.py)
 [Calculating With Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/python)   | [Python solution](python/5_kyu/Calculating_With_Functions.py)  
 [Write out numbers](https://www.codewars.com/kata/52724507b149fa120600031d/)   | [Python solution](python/5_kyu/Write_out_numbers.py)  
 [Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811)   | [Python solution](python/5_kyu/Regex_Password_Validation.py)  
