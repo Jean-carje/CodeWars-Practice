@@ -14,6 +14,7 @@
 [Number of Proper Fractions with Denominator d](https://www.codewars.com/kata/55b7bb74a0256d4467000070/)   | [Python solution](python/4_kyu/Number_of_Proper_Fractions_with_Denominator.py)
 [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014/)   | [Python solution](python/4_kyu/Strings_Mix.py)
 [Social Golfer Problem Validator](https://www.codewars.com/kata/556c04c72ee1147ff20000c9/)   | [Python solution](python/4_kyu/Social_Golfer_Problem_Validator.py) 
+[Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d/)   | [Python solution](python/4_kyu/Permutations.py) 
 
 **5-kyu**
          Problems/Kata         |  Solution  
