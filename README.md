@@ -49,6 +49,7 @@
 [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f/)   | [Javascript solution](javascript/6_kyu/Your_order_please.js)
 [Format a string of names like 'Bart, Lisa & Maggie'.](https://www.codewars.com/kata/53368a47e38700bd8300030d/)   | [Javascript solution](javascript/6_kyu/Format.js)
 [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/)   | [Javascript solution](javascript/6_kyu/Duplicate_Encoder.js)
+[Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023)   | [Javascript solution](javascript/6_kyu/Delete_occurrences.js)
 
 
 **7-kyu**
