@@ -14,7 +14,8 @@
 [Number of Proper Fractions with Denominator d](https://www.codewars.com/kata/55b7bb74a0256d4467000070/)   | [Python solution](python/4_kyu/Number_of_Proper_Fractions_with_Denominator.py)
 [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014/)   | [Python solution](python/4_kyu/Strings_Mix.py)
 [Social Golfer Problem Validator](https://www.codewars.com/kata/556c04c72ee1147ff20000c9/)   | [Python solution](python/4_kyu/Social_Golfer_Problem_Validator.py) 
-[Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d/)   | [Python solution](python/4_kyu/Permutations.py) 
+[Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d/)   | [Python solution](python/4_kyu/Permutations.py)
+[Great Total Additions](https://www.codewars.com/kata/568f2d5762282da21d000011)   | [Javascript solution](python/Great_Total_Additions.py) 
 
 **5-kyu**
          Problems/Kata         |  Solution  
@@ -49,7 +50,8 @@
 [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f/)   | [Javascript solution](javascript/6_kyu/Your_order_please.js)
 [Format a string of names like 'Bart, Lisa & Maggie'.](https://www.codewars.com/kata/53368a47e38700bd8300030d/)   | [Javascript solution](javascript/6_kyu/Format.js)
 [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/)   | [Javascript solution](javascript/6_kyu/Duplicate_Encoder.js)
-[Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023)   | [Javascript solution](javascript/6_kyu/Delete_occurrences.js)
+[Delete occurrences](https://www.codewars.com/kata/554ca54ffa7d91b236000023)   | [Javascript solution](javascript/6_kyu/Delete_occurrences.js)
+[Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript)   | [Javascript solution](javascript/6_kyu/Persistent_Bugger.js)
 
 
 **7-kyu**
