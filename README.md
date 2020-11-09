@@ -16,6 +16,7 @@
 [Social Golfer Problem Validator](https://www.codewars.com/kata/556c04c72ee1147ff20000c9/)   | [Python solution](python/4_kyu/Social_Golfer_Problem_Validator.py) 
 [Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d/)   | [Python solution](python/4_kyu/Permutations.py)
 [Great Total Additions](https://www.codewars.com/kata/568f2d5762282da21d000011)   | [Javascript solution](python/Great_Total_Additions.py) 
+[Getting along with Integer Partitions](https://www.codewars.com/kata/55cf3b567fc0e02b0b00000b/)   | [Javascript solution](python/Partitions.py) 
 
 **5-kyu**
          Problems/Kata         |  Solution  
