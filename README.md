@@ -53,6 +53,7 @@
 [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/)   | [Javascript solution](javascript/6_kyu/Duplicate_Encoder.js)
 [Delete occurrences](https://www.codewars.com/kata/554ca54ffa7d91b236000023)   | [Javascript solution](javascript/6_kyu/Delete_occurrences.js)
 [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript)   | [Javascript solution](javascript/6_kyu/Persistent_Bugger.js)
+[IPv4 to int32](https://www.codewars.com/kata/52ea928a1ef5cfec800003ee/train/javascript)   | [Javascript solution](javascript/6_kyu/IPv4_to_int32.js)
 
 
 **7-kyu**
