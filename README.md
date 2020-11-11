@@ -36,6 +36,7 @@
 [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/)   | [Python solution](python/5_kyu/String_incrementer.py)
 [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/solutions/python)   | [Python solution](python/5_kyu/Directions_Reduction.py)
 [Battle ships: Sunk damaged or not touched?](https://www.codewars.com/kata/58d06bfbc43d20767e000074)   | [Python solution](python/5_kyu/Battle_ships.py)
+[Factorial decomposition](https://www.codewars.com/kata/5a045fee46d843effa000070/)   | [Python solution](python/5_kyu/Factorial_decomposition.py)
 
 **6-kyu** 
         Problems/Kata         |  Solution  
