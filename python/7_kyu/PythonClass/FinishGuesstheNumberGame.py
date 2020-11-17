@@ -8,5 +8,12 @@ class Guesser:
         self.number = number
         self.lives = lives
   
-    def guess(self,n):
-        return False
+def guess(self,n):
+        if n == self.number and self.lives > 0:
+            return True
+        elif n != self.number:
+            self.lives -= 1
+            return False
+        else:
+            raise 'Expect error: "Omae wa mo shindeiru"'
+
