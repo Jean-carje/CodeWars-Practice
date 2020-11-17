@@ -68,3 +68,4 @@
 [Maximum Length Difference](https://www.codewars.com/kata/5663f5305102699bad000056/)   | [Javascript solution](javascript/7_kyu/Maximum_Length_Difference.js) 
 [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053/)   | [Javascript solution](javascript/7_kyu/Beginner_Series3.js) 
 [Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)   | [Javascript solution](javascript/7_kyu/Remove_the_minimum.js) 
+[Python class](https://www.codewars.com/collections/python-class)   | [Python solution](javascript/7_kyu/PythonClass) 
