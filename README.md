@@ -37,6 +37,7 @@
 [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/solutions/python)   | [Python solution](python/5_kyu/Directions_Reduction.py)
 [Battle ships: Sunk damaged or not touched?](https://www.codewars.com/kata/58d06bfbc43d20767e000074)   | [Python solution](python/5_kyu/Battle_ships.py)
 [Factorial decomposition](https://www.codewars.com/kata/5a045fee46d843effa000070/)   | [Python solution](python/5_kyu/Factorial_decomposition.py)
+[Simple string expansion](https://www.codewars.com/kata/5a793fdbfd8c06d07f0000d5/)   | [Python solution](python/5_kyu/Simple_string_expansion.py)
 
 **6-kyu** 
         Problems/Kata         |  Solution  
