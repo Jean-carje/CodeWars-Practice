@@ -38,7 +38,7 @@
 [Battle ships: Sunk damaged or not touched?](https://www.codewars.com/kata/58d06bfbc43d20767e000074)   | [Python solution](python/5_kyu/Battle_ships.py)
 [Factorial decomposition](https://www.codewars.com/kata/5a045fee46d843effa000070/)   | [Python solution](python/5_kyu/Factorial_decomposition.py)
 [Simple string expansion](https://www.codewars.com/kata/5a793fdbfd8c06d07f0000d5/)   | [Python solution](python/5_kyu/Simple_string_expansion.py)
-[Alphabet wars - nuclear strike](https://www.codewars.com/kata/59437bd7d8c9438fb5000004/)   | [Python solution](python/5_kyu/Alphabet_wars.py)
+[Alphabet wars - nuclear strike](https://www.codewars.com/kata/59437bd7d8c9438fb5000004/)   | [Python solution](python/5_kyu/Alphabet_wars-nuclearStrike.py)
 
 **6-kyu** 
         Problems/Kata         |  Solution  
@@ -70,5 +70,5 @@
 [Maximum Length Difference](https://www.codewars.com/kata/5663f5305102699bad000056/)   | [Javascript solution](javascript/7_kyu/Maximum_Length_Difference.js) 
 [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053/)   | [Javascript solution](javascript/7_kyu/Beginner_Series3.js) 
 [Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)   | [Javascript solution](javascript/7_kyu/Remove_the_minimum.js) 
-[Python class](https://www.codewars.com/collections/python-class)   | [Python solution](javascript/7_kyu/PythonClass) 
-[Fun with ES6 Classes #1](https://www.codewars.com/kata/56f7f8215d7c12c0e7000b19/train/javascript)   | [Javascript solution](javascript/7_kyu/Fun withES6Classes#1.js) 
+[Python class](https://www.codewars.com/collections/python-class)   | [Python solution](python/7_kyu/PythonClass) 
+[Fun with ES6 Classes #1](https://www.codewars.com/kata/56f7f8215d7c12c0e7000b19/train/javascript)   | [Javascript solution](javascript/FunwithES6Classes1.js) 
