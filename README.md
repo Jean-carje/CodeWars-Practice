@@ -57,6 +57,7 @@
 [Delete occurrences](https://www.codewars.com/kata/554ca54ffa7d91b236000023)   | [Javascript solution](javascript/6_kyu/Delete_occurrences.js)
 [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript)   | [Javascript solution](javascript/6_kyu/Persistent_Bugger.js)
 [IPv4 to int32](https://www.codewars.com/kata/52ea928a1ef5cfec800003ee/train/javascript)   | [Javascript solution](javascript/6_kyu/IPv4_to_int32.js)
+[Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/train/javascript)   | [Javascript solution](javascript/6_kyu/Multiplication_table.js)
 
 
 **7-kyu**
