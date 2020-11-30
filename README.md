@@ -61,7 +61,8 @@
 [IPv4 to int32](https://www.codewars.com/kata/52ea928a1ef5cfec800003ee/train/javascript)   | [Javascript solution](javascript/6_kyu/IPv4_to_int32.js)
 [Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/train/javascript)   | [Javascript solution](javascript/6_kyu/Multiplication_table.js)
 [+1Array](https://www.codewars.com/kata/5514e5b77e6b2f38e0000ca9)   | [Javascript solution](javascript/6_kyu/1Array.js)
-[Product Partitions I](https://www.codewars.com/kata/56135a61f8b29814340000cd/)   | [Python solution](javascript/6_kyu/Product_PartitionsI.js)
+[Product Partitions I](https://www.codewars.com/kata/56135a61f8b29814340000cd/)   | [Javascript solution](javascript/6_kyu/Product_PartitionsI.js)
+[Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db/)   | [Python solution](python/6_kyu/Tribonacci_Sequence.py)
 
 
 **7-kyu**
