@@ -63,6 +63,7 @@
 [+1Array](https://www.codewars.com/kata/5514e5b77e6b2f38e0000ca9)   | [Javascript solution](javascript/6_kyu/1Array.js)
 [Product Partitions I](https://www.codewars.com/kata/56135a61f8b29814340000cd/)   | [Javascript solution](javascript/6_kyu/Product_PartitionsI.js)
 [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db/)   | [Python solution](python/6_kyu/Tribonacci_Sequence.py)
+[Fibonacci, Tribonacci and friends](https://www.codewars.com/kata/556e0fccc392c527f20000c5/)   | [Javascript solution](javascript/6_kyu/Fibonacci_Tribonacci_and_friends.js)
 
 
 **7-kyu**
