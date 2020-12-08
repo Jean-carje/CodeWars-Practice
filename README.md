@@ -67,6 +67,7 @@
 [Word a10n (abbreviation)](https://www.codewars.com/kata/5375f921003bf62192000746/)   | [Python solution](python/6_kyu/Word_a10n_abbreviation.py)
 [Highest Rank Number in an Array](https://www.codewars.com/kata/5420fc9bb5b2c7fd57000004/)   | [Javascript solution](javascript/6_kyu/Highest_Rank_Number_in_an_Array.js)
 [Counting Duplicates](https://www.codewars.com/kata/5375f921003bf62192000746/)   | [Python solution](python/6_kyu/Counting_Duplicates.py)
+[Dashatize it](https://www.codewars.com/kata/58223370aef9fc03fd000071/)   | [Javascript solution](javascript/6_kyu/Dashatize_it.js)
 
 
 **7-kyu**
