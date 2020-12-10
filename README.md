@@ -70,6 +70,7 @@
 [Dashatize it](https://www.codewars.com/kata/58223370aef9fc03fd000071/)   | [Javascript solution](javascript/6_kyu/Dashatize_it.js)
 [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/python)   | [Python solution](python/6_kyu/Detect_Pangram.py)
 [The Vowel Code](https://www.codewars.com/kata/53697be005f803751e0015aa/)   | [Javascript solution](javascript/6_kyu/The_Vowel_Code.js)
+[Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667/train/python)   | [Python solution](python/6_kyu/Unique_In_Order.py)
 
 
 **7-kyu**
