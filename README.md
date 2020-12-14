@@ -41,6 +41,7 @@
 [Simple string expansion](https://www.codewars.com/kata/5a793fdbfd8c06d07f0000d5/)   | [Python solution](python/5_kyu/Simple_string_expansion.py)
 [Alphabet wars - nuclear strike](https://www.codewars.com/kata/59437bd7d8c9438fb5000004/)   | [Python solution](python/5_kyu/Alphabet_wars-nuclearStrike.py)
 [Sort arrays - 3](https://www.codewars.com/kata/51f42b1de8f176db5a0002ae/)   | [Python solution](python/5_kyu/Which_x_for_that_sum.py)
+[flatten](https://www.codewars.com/kata/513fa1d75e4297ba38000003)   | [Python solution](python/5_kyu/flatten.py)
 
 **6-kyu** 
         Problems/Kata         |  Solution  
