@@ -4,10 +4,8 @@
 # -------------------------------------
 # Solution:
 
-def last_digit(n1, n2):
-    """n1 ** n2 % 10"""
-    res = pow(n1, n2, 10)
-    return res
+def last_digit(a, b):
+    return pow(a, b, 10)
 
 
 print(last_digit(4, 1), 4)
