@@ -15,9 +15,10 @@
 [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014/)   | [Python solution](python/4_kyu/Strings_Mix.py)
 [Social Golfer Problem Validator](https://www.codewars.com/kata/556c04c72ee1147ff20000c9/)   | [Python solution](python/4_kyu/Social_Golfer_Problem_Validator.py) 
 [Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d/)   | [Python solution](python/4_kyu/Permutations.py)
-[Great Total Additions](https://www.codewars.com/kata/568f2d5762282da21d000011)   | [Python solution](python/Great_Total_Additions.py) 
-[Getting along with Integer Partitions](https://www.codewars.com/kata/55cf3b567fc0e02b0b00000b/)   | [Python solution](python/Partitions.py)
-[Currying vs. Partial Application](https://www.codewars.com/kata/53cf7e37e9876c35a60002c9/)   | [Python solution](python/Currying_vs_Partial_Application.py)
+[Great Total Additions](https://www.codewars.com/kata/568f2d5762282da21d000011)   | [Python solution](python/4_kyu/Great_Total_Additions.py) 
+[Getting along with Integer Partitions](https://www.codewars.com/kata/55cf3b567fc0e02b0b00000b/)   | [Python solution](python/4_kyu/Partitions.py)
+[Currying vs. Partial Application](https://www.codewars.com/kata/53cf7e37e9876c35a60002c9/)   | [Python solution](python/4_kyu/Currying_vs_Partial_Application.py)
+[Explosive Sum](https://www.codewars.com/kata/52ec24228a515e620b0005ef/)   | [Python solution](python/4_kyu/Explosive_sum.py)
 
 **5-kyu**
          Problems/Kata         |  Solution  
@@ -89,4 +90,4 @@
 [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053/)   | [Javascript solution](javascript/7_kyu/Beginner_Series3.js) 
 [Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)   | [Javascript solution](javascript/7_kyu/Remove_the_minimum.js) 
 [Python class](https://www.codewars.com/collections/python-class)   | [Python solution](python/7_kyu/PythonClass) 
-[Fun with ES6 Classes #1](https://www.codewars.com/kata/56f7f8215d7c12c0e7000b19/train/javascript)   | [Javascript solution](javascript/FunwithES6Classes1.js) 
+[Fun with ES6 Classes #1](https://www.codewars.com/kata/56f7f8215d7c12c0e7000b19/train/javascript)   | [Javascript solution](javascript/7_kyu/FunwithES6Classes1.js) 
