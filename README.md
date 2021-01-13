@@ -19,6 +19,7 @@
 [Getting along with Integer Partitions](https://www.codewars.com/kata/55cf3b567fc0e02b0b00000b/)   | [Python solution](python/4_kyu/Partitions.py)
 [Currying vs. Partial Application](https://www.codewars.com/kata/53cf7e37e9876c35a60002c9/)   | [Python solution](python/4_kyu/Currying_vs_Partial_Application.py)
 [Explosive Sum](https://www.codewars.com/kata/52ec24228a515e620b0005ef/)   | [Python solution](python/4_kyu/Explosive_sum.py)
+[Find Product Partitions With Maximum or Minimum Score](https://www.codewars.com/kata/52ec24228a515e620b0005ef/)   | [Python solution](python/4_kyu/Find_Product_Partitions.py)
 
 **5-kyu**
          Problems/Kata         |  Solution  
