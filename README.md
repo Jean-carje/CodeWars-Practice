@@ -45,6 +45,7 @@
 [Sort arrays - 3](https://www.codewars.com/kata/51f42b1de8f176db5a0002ae/)   | [Python solution](python/5_kyu/Which_x_for_that_sum.py)
 [flatten](https://www.codewars.com/kata/513fa1d75e4297ba38000003)   | [Python solution](python/5_kyu/flatten.py)
 [Last digit of a large number](https://www.codewars.com/kata/5511b2f550906349a70004e1/train/)   | [Python solution](python/5_kyu/Last_digit_of_a_large_number.py)
+[Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)   | [Javascript solution](javascript/5_kyu/Simple_Pig_Latin.js)
 
 **6-kyu** 
         Problems/Kata         |  Solution  
