@@ -79,6 +79,7 @@
 [Replace With Alphabet Position](https://www.codewars.com/kata/54e6533c92449cc251001667/train/python)   | [Python solution](python/6_kyu/ReplaceAlphabetPosition.py)
 [Vasya - Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/python)   | [Python solution](python/6_kyu/Vasya-Clerk.py)
 [Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/)   | [Python solution](python/6_kyu/Sort_the_odd.py)
+[Message Validator](https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc/)   | [Python solution](python/6_kyu/Message_Validator.py)
 
 
 **7-kyu**
