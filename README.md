@@ -80,6 +80,8 @@
 [Vasya - Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/python)   | [Python solution](python/6_kyu/Vasya-Clerk.py)
 [Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/)   | [Python solution](python/6_kyu/Sort_the_odd.py)
 [Message Validator](https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc/)   | [Python solution](python/6_kyu/Message_Validator.py)
+[Character with longest consecutive repetition](https://www.codewars.com/kata/586d6cefbcc21eed7a001155/)   | [Javascript solution](javascript/6_kyu/CharacterWithLongestConsecutiveRepetition.js)
+[Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091/)   | [Python solution](python/6_kyu/Count_characters_in_your_string.py)
 
 
 **7-kyu**
