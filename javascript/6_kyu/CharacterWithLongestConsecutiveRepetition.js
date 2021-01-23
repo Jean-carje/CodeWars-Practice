@@ -5,19 +5,26 @@
 // Solution:
 
 function longestRepetition(s) {
-  let res = ['', 0];
-  let w = '';
+  let ar = [];
+  let w = s.charAt(0);
   let c = 0;
-  for (let i = 0; i < s.length; i++) {
-    w = s.charAt(i)
-    c += 1
-    if (res[-2] != s.charAt(i - 1) && res[-1] < c) {
-      res.push(w);
-      res.push(c)
-      c = 0
+  let res = ["", 0];
+
+  for (let i = 0; i <= s.length; i++) {
+    if (w === s.charAt(i)) {
+      c += 1;
+    } else {
+      ar.push([w, c]);
+      w = s.charAt(i);
+      c = 1;
     }
   }
-  return res
+  for (let el of ar) {
+    if (res[1] < el[1]) {
+      res = el;
+    }
+  }
+  return res;
 }
 
 
@@ -25,9 +32,9 @@ function longestRepetition(s) {
 
 console.log(longestRepetition("aaaabb"), ["a", 4]);
 console.log(longestRepetition("bbbaaabaaaa"), ["a", 4]);
-//console.log(longestRepetition("cbdeuuu900"), ["u", 3]);
-//console.log(longestRepetition("abbbbb"), ["b", 5]);
-//console.log(longestRepetition("aabb"), ["a", 2]);
-//console.log(longestRepetition(""), ["", 0]);
-//console.log(longestRepetition("ba"), ["b", 1]);
+console.log(longestRepetition("cbdeuuu900"), ["u", 3]);
+console.log(longestRepetition("abbbbb"), ["b", 5]);
+console.log(longestRepetition("aabb"), ["a", 2]);
+console.log(longestRepetition(""), ["", 0]);
+console.log(longestRepetition("ba"), ["b", 1]);
 
