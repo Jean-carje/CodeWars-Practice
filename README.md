@@ -4,6 +4,12 @@
 </a>
 
 ## Solutions
+**3-kyu**
+         Problems/Kata         |  Solution  
+------------------------------ | ---------- 
+[Last digit of a huge number](https://www.codewars.com/kata/5518a860a73e708c0a000027)   | [Python solution](python/3_kyu/Last_digit_of_a_huge_number.py) 
+
+
 **4-kyu**
          Problems/Kata         |  Solution  
 ------------------------------ | ---------- 
@@ -47,7 +53,7 @@
 [Last digit of a large number](https://www.codewars.com/kata/5511b2f550906349a70004e1/train/)   | [Python solution](python/5_kyu/Last_digit_of_a_large_number.py)
 [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)   | [Javascript solution](javascript/5_kyu/Simple_Pig_Latin.js)
 [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0/)   | [Python solution](python/5_kyu/MovingZerosToTheEnd.py)
-[Iterative Rotation Cipher](https://www.codewars.com/kata/5d653190d94b3b0021ec8f2b/)   | [Python solution](python/5_kyu/IterativeRotationCipher.py)
+
 
 **6-kyu** 
         Problems/Kata         |  Solution  
