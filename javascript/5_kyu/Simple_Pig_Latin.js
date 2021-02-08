@@ -14,7 +14,7 @@ function pigIt(str) {
       res.push(arr[w]);
     }
   }
-  return res.join(' ')
+  return res.join(' ');
 }
 
 
