@@ -92,6 +92,7 @@
 [Character with longest consecutive repetition](https://www.codewars.com/kata/586d6cefbcc21eed7a001155/)   | [Javascript solution](javascript/6_kyu/CharacterWithLongestConsecutiveRepetition.js)
 [Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091/)   | [Python solution](python/6_kyu/Count_characters_in_your_string.py)
 [Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/)   | [Javascript solution](javascript/6_kyu/SumsofParts.js)
+[Is Integer Array?](https://www.codewars.com/kata/52a112d9488f506ae7000b95/)   | [Python solution](python/Integer_array.py)
 
 
 **7-kyu**
