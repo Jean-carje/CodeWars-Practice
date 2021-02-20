@@ -54,6 +54,7 @@
 [Last digit of a large number](https://www.codewars.com/kata/5511b2f550906349a70004e1/train/)   | [Python solution](python/5_kyu/Last_digit_of_a_large_number.py)
 [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)   | [Javascript solution](javascript/5_kyu/Simple_Pig_Latin.js)
 [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0/)   | [Python solution](python/5_kyu/MovingZerosToTheEnd.py)
+[First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/train/javascript)   | [Javascript solution](javascript/5_kyu/FirstNon-repeatingCharacter.js)
 
 
 **6-kyu** 
