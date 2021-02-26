@@ -95,6 +95,7 @@
 [Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091/)   | [Python solution](python/6_kyu/Count_characters_in_your_string.py)
 [Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/)   | [Javascript solution](javascript/6_kyu/SumsofParts.js)
 [Is Integer Array?](https://www.codewars.com/kata/52a112d9488f506ae7000b95/)   | [Python solution](python/Integer_array.py)
+[Upside down numbers](https://www.codewars.com/kata/59f7597716049833200001eb/)   | [Python solution](python/Upside_down_numbers.py)
 
 
 **7-kyu**
