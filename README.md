@@ -96,6 +96,7 @@
 [Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/)   | [Javascript solution](javascript/6_kyu/SumsofParts.js)
 [Is Integer Array?](https://www.codewars.com/kata/52a112d9488f506ae7000b95/)   | [Python solution](python/Integer_array.py)
 [Upside down numbers](https://www.codewars.com/kata/59f7597716049833200001eb/)   | [Python solution](python/Upside_down_numbers.py)
+[Consecutive strings](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/)   | [Python solution](python/Consecutive_strings.py)
 
 
 **7-kyu**
