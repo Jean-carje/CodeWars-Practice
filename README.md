@@ -1,6 +1,6 @@
 <h1 align="center">Codewars Practice</h1>
 <a href="https://www.codewars.com/users/Carje">
-    <img src="https://secureservercdn.net/160.153.138.53/610.341.myftpupload.com/wp-content/uploads/2017/09/codewars.png" alt="Codewars logo">
+    <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="Codewars logo">
 </a>
 
 ## Solutions
