@@ -28,6 +28,7 @@
 [Find Product Partitions With Maximum or Minimum Score](https://www.codewars.com/kata/52ec24228a515e620b0005ef/)   | [Python solution](python/4_kyu/Find_Product_Partitions.py)
 [Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb/)   | [Python solution](python/4_kyu/Most_frequently_used_words_in_a_text.py)
 [How many numbers III?](https://www.codewars.com/kata/5877e7d568909e5ff90017e6/)   | [Python solution](python/4_kyu/How_many_numbers.py)
+[Can you really count divisors?](https://www.codewars.com/kata/58b16300a470d47498000811/)   | [Python solution](python/4_kyu/Can_you_really_count_divisors.py)
 
 **5-kyu**
          Problems/Kata         |  Solution  
