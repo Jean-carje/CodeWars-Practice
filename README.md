@@ -1,7 +1,6 @@
 <h1 align="center">Codewars Practice</h1>
 link for honor: www.codewars.com/r/XhKjuQ
-
-
+<br>
 <a href="https://www.codewars.com/users/Carje">
     <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="Codewars logo">
 </a>
