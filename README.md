@@ -1,6 +1,8 @@
 <h1 align="center">Codewars Practice</h1>
+link for honor: www.codewars.com/r/XhKjuQ
+<br>
 <a href="https://www.codewars.com/users/Carje">
-    <img src="https://secureservercdn.net/160.153.138.53/610.341.myftpupload.com/wp-content/uploads/2017/09/codewars.png" alt="Codewars logo">
+    <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="Codewars logo">
 </a>
 
 ## Solutions
@@ -114,4 +116,9 @@
 [Python class](https://www.codewars.com/collections/python-class)   | [Python solution](python/7_kyu/PythonClass) 
 [Fun with ES6 Classes #1](https://www.codewars.com/kata/56f7f8215d7c12c0e7000b19/train/javascript)   | [Javascript solution](javascript/7_kyu/FunwithES6Classes1.js) 
 [Categorize New Member](https://www.codewars.com/kata/5518a860a73e708c0a000027/train/python)   | [Python solution](python/7_kyu/CategorizeNewMember.py) 
-[List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/python)   | [Python solution](python/7_kyu/ListFiltering.py) 
+=======
+
+**8-kyu**
+         Problems/Kata         |  Solution  
+------------------------------ | ---------- 
+[Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/cpp)   | [c++ solution](cpp/8_kyu/000.cpp)
