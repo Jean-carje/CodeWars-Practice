@@ -16,6 +16,8 @@ def find_all(sum_dig, digs):
             for i in sorted(el):
                 temp += str(i)
             all_numbers.append(int(temp))
-    return [ttl, min(all_numbers), max(all_numbers)] if all_numbers else []
-
+    if all_numbers:
+        return [ttl, min(all_numbers), max(all_numbers)]  
+    else:
+        return []
 
