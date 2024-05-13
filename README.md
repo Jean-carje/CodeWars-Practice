@@ -13,8 +13,8 @@ link for honor: www.codewars.com/r/XhKjuQ
 
 
 **4-kyu**
-         Problems/Kata         |  Solution  
------------------------------- | ---------- 
+         Problems/Kata         |  Solution Python  |  Solution Rust  |  Solution Java
+------------------------------ | ----------------- | --------------- | ---------------- |
 [Square into Squares protect trees!](https://www.codewars.com/kata/54eb33e5bc1a25440d000891/)   | [Python solution](python/4_kyu/Square_into_Squares_Protect_trees.py) 
 [Nesting Structure Comparison](https://www.codewars.com/kata/520446778469526ec0000001/)   | [Python solution](python/4_kyu/Nesting_Structure_Comparison.py) 
 [Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f/)   | [Python solution](python/4_kyu/Sum_by_Factors.py) 
@@ -123,4 +123,4 @@ link for honor: www.codewars.com/r/XhKjuQ
          Problems/Kata         |  Solution  
 ------------------------------ | ---------- 
 [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/cpp)   | [c++ solution](cpp/8_kyu/000.cpp)
-[Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e/)   | [c++ solution](python/8_kyu/0000.py)
+[Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e/)   | [Python](python/8_kyu/0000.py)
