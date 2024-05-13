@@ -7,8 +7,8 @@ link for honor: www.codewars.com/r/XhKjuQ
 
 ## Solutions
 **3-kyu**
-         Problems/Kata         |  Solution  
------------------------------- | ---------- 
+         Problems/Kata         |  Solution Python  |  Solution Rust  |  Solution Java
+------------------------------ | ----------------- | --------------- | ---------------- |
 [Last digit of a huge number](https://www.codewars.com/kata/5518a860a73e708c0a000027)   | [Python solution](python/3_kyu/Last_digit_of_a_huge_number.py) 
 
 
@@ -33,8 +33,8 @@ link for honor: www.codewars.com/r/XhKjuQ
 [Can you really count divisors?](https://www.codewars.com/kata/58b16300a470d47498000811/)   | [Python solution](python/4_kyu/Can_you_really_count_divisors.py)
 
 **5-kyu**
-         Problems/Kata         |  Solution  
------------------------------- | ---------- 
+         Problems/Kata         |  Solution Python  |  Solution Rust  |  Solution Java
+------------------------------ | ----------------- | --------------- | ---------------- |
 [Buddy Pairs](https://www.codewars.com/kata/59ccf051dcc4050f7800008f/solutions/python)   | [Python solution](python/5_kyu/Buddy_pairs.py)
 [Calculating With Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/python)   | [Python solution](python/5_kyu/Calculating_With_Functions.py)  
 [Write out numbers](https://www.codewars.com/kata/52724507b149fa120600031d/)   | [Python solution](python/5_kyu/Write_out_numbers.py)  
@@ -62,8 +62,8 @@ link for honor: www.codewars.com/r/XhKjuQ
 
 
 **6-kyu** 
-        Problems/Kata         |  Solution  
------------------------------ |  --------  
+         Problems/Kata         |  Solution Python  |  Solution Rust  |  Solution Java
+------------------------------ | ----------------- | --------------- | ---------------- | 
 [Longest Palindrome](https://www.codewars.com/kata/54bb6f887e5a80180900046b/train/python)   | [Python solution](python/6_kyu/longest_palindrome.py)
 [Help the bookseller!](https://www.codewars.com/kata/54dc6f5a224c26032800005c/train/python)   | [Python solution](python/6_kyu/Help_the_bookseller.py)
 [String array duplicates](https://www.codewars.com/kata/59f08f89a5e129c543000069/)   | [Python solution](python/6_kyu/String_array_duplicates.py)
@@ -103,8 +103,8 @@ link for honor: www.codewars.com/r/XhKjuQ
 
 
 **7-kyu**
-         Problems/Kata         |  Solution  
------------------------------- | ---------- 
+         Problems/Kata         |  Solution Python  |  Solution Rust  |  Solution Java
+------------------------------ | ----------------- | --------------- | ---------------- |
 [Numbers in strings](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014/train/javascript)   | [Javascript solution](javascript/7_kyu/Numbers_in_strings.js) 
 [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/)   | [Javascript solution](javascript/7_kyu/Isograms.js) 
 [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/)   | [Javascript solution](javascript/7_kyu/Square_Every_Digit.js) 
@@ -120,7 +120,7 @@ link for honor: www.codewars.com/r/XhKjuQ
 =======
 
 **8-kyu**
-         Problems/Kata         |  Solution  
------------------------------- | ---------- 
+         Problems/Kata         |  Solution Python  |  Solution Rust  |  Solution Java
+------------------------------ | ----------------- | --------------- | ---------------- |
 [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/cpp)   | [c++ solution](cpp/8_kyu/000.cpp)
 [Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e/)   | [Python](python/8_kyu/0000.py)
