@@ -105,7 +105,7 @@ link for honor: www.codewars.com/r/XhKjuQ
 **7-kyu**
          Problems/Kata         |  Solution Python  |  Solution Rust  |  Solution Java   |  Solution Javascript
 ------------------------------ | ----------------- | --------------- | ---------------- | ---------------- 
-[Numbers in strings](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014/train/javascript)   | ---------------- | ---------------- | ---------------- | [Javascript solution](javascript/7_kyu/Numbers_in_strings.js) 
+[Numbers in strings](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014/train/javascript)   |  |  |  | [Javascript solution](javascript/7_kyu/Numbers_in_strings.js) 
 [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/)   | [Javascript solution](javascript/7_kyu/Isograms.js) 
 [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/)   | [Javascript solution](javascript/7_kyu/Square_Every_Digit.js) 
 [Find the middle element](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/)   | [Javascript solution](javascript/7_kyu/Find_the_middle_element.js) 
@@ -117,7 +117,7 @@ link for honor: www.codewars.com/r/XhKjuQ
 [Fun with ES6 Classes #1](https://www.codewars.com/kata/56f7f8215d7c12c0e7000b19/train/javascript)   | [Javascript solution](javascript/7_kyu/FunwithES6Classes1.js) 
 [Categorize New Member](https://www.codewars.com/kata/5518a860a73e708c0a000027/train/python)   | [Python solution](python/7_kyu/CategorizeNewMember.py) 
 [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/python)   | [Python solution](python/7_kyu/ListFiltering.py) 
-=======
+
 
 **8-kyu**
          Problems/Kata         |  Solution Python  |  Solution Rust  |  Solution Java
