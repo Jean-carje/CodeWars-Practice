@@ -112,17 +112,16 @@ link for honor: www.codewars.com/r/XhKjuQ
 [Python's Dynamic Classes #1](https://www.codewars.com/kata/55ddb0ea5a133623b6000043)   | [Python solution](python/7_kyu/Python_Dynamic_Classes_1.py) 
 [Maximum Length Difference](https://www.codewars.com/kata/5663f5305102699bad000056/)  | | | | | [Javascript solution](javascript/7_kyu/Maximum_Length_Difference.js) 
 [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053/) | | | |  | [Javascript solution](javascript/7_kyu/Beginner_Series3.js) 
-[Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b) | | | |  | [Javascript solution](javascript/7_kyu/Remove_the_minimum.js) 
-[Python class](https://www.codewars.com/collections/python-class)   | [Python solution](python/7_kyu/PythonClass) 
-[Fun with ES6 Classes #1](https://www.codewars.com/kata/56f7f8215d7c12c0e7000b19/train/javascript)  | | | | [Javascript solution](javascript/7_kyu/FunwithES6Classes1.js) 
-[Categorize New Member](https://www.codewars.com/kata/5518a860a73e708c0a000027/train/python)   | [Python solution](python/7_kyu/CategorizeNewMember.py) 
-[List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/python)   | [Python solution](python/7_kyu/ListFiltering.py) 
-=======
+[Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b) | | | |  | [Javascript ](javascript/7_kyu/Remove_the_minimum.js) 
+[Python class](https://www.codewars.com/collections/python-class)   | [Python ](python/7_kyu/PythonClass) 
+[Fun with ES6 Classes #1](https://www.codewars.com/kata/56f7f8215d7c12c0e7000b19/train/javascript)  | | | [Javascript](javascript/7_kyu/FunwithES6Classes1.js) 
+[Categorize New Member](https://www.codewars.com/kata/5518a860a73e708c0a000027/train/python)   | [Python ](python/7_kyu/CategorizeNewMember.py) 
+[List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/python)   | [Python](python/7_kyu/ListFiltering.py) 
 
 **8-kyu**
          Problems/Kata         |  python  | c++ | javascript | c |
 ------------------------------ | -------- | --- | ---------- | - |
 [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/cpp) | | [c++ solution](cpp/8_kyu/000.cpp)
 [Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e/)   | [python](python/8_kyu/0000.py)
-[Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4/train/cpp) | | [c++ solution](cpp/8_kyu/0001.cpp)
+[Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4/train/cpp) | | [c++ ](cpp/8_kyu/0001.cpp)
 
