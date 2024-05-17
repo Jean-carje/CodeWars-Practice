@@ -73,7 +73,7 @@ link for honor: www.codewars.com/r/XhKjuQ
 [Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f/)   | [Python solution](python/6_kyu/Matrix_Addition.py)
 [Sum of pairs](https://www.codewars.com/kata/54d81488b981293527000c8f/)   | [Python solution](python/6_kyu/Sum_of_pairs.py)
 [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f/) | | | [Javascript solution](javascript/6_kyu/Your_order_please.js)
-[Format a string of names like 'Bart, Lisa & Maggie'.](https://www.codewars.com/kata/53368a47e38700bd8300030d/)   | [Javascript solution](javascript/6_kyu/Format.js)
+[Format a string of names like 'Bart, Lisa & Maggie'.](https://www.codewars.com/kata/53368a47e38700bd8300030d/)   | | | [Javascript solution](javascript/6_kyu/Format.js)
 [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/) | | | [Javascript solution](javascript/6_kyu/Duplicate_Encoder.js)
 [Delete occurrences](https://www.codewars.com/kata/554ca54ffa7d91b236000023)  | | | [Javascript solution](javascript/6_kyu/Delete_occurrences.js)
 [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript)  | | | [Javascript solution](javascript/6_kyu/Persistent_Bugger.js)
