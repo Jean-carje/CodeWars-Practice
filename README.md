@@ -124,5 +124,5 @@ link for honor: www.codewars.com/r/XhKjuQ
 [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/cpp) | | [c++](cpp/8_kyu/000.cpp)
 [Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e/)   | [python](python/8_kyu/0000.py)
 [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4/train/cpp) | | [c++ ](cpp/8_kyu/0001.cpp)
-[L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038/train/c) | | [ C Solution ](c/8_kyu/0000.c)
+[L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038/train/c) | | | | [ C Solution ](c/8_kyu/0000.c)
 
