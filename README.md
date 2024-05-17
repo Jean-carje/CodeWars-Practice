@@ -114,7 +114,7 @@ link for honor: www.codewars.com/r/XhKjuQ
 [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053/) | | | |  | [Javascript solution](javascript/7_kyu/Beginner_Series3.js) 
 [Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b) | | | |  | [Javascript solution](javascript/7_kyu/Remove_the_minimum.js) 
 [Python class](https://www.codewars.com/collections/python-class)   | [Python solution](python/7_kyu/PythonClass) 
-[Fun with ES6 Classes #1](https://www.codewars.com/kata/56f7f8215d7c12c0e7000b19/train/javascript)  | | | | | [Javascript solution](javascript/7_kyu/FunwithES6Classes1.js) 
+[Fun with ES6 Classes #1](https://www.codewars.com/kata/56f7f8215d7c12c0e7000b19/train/javascript)  | | | | [Javascript solution](javascript/7_kyu/FunwithES6Classes1.js) 
 [Categorize New Member](https://www.codewars.com/kata/5518a860a73e708c0a000027/train/python)   | [Python solution](python/7_kyu/CategorizeNewMember.py) 
 [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/python)   | [Python solution](python/7_kyu/ListFiltering.py) 
 =======
